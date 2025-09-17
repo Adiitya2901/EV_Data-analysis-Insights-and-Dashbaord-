@@ -49,7 +49,8 @@ The dataset was sourced from **Kaggle** and consists of 4 CSV files:
 ### 3. Dashboard Development (Power BI)  
 - Connected Power BI to SQL database  
 - Built relationships across tables in **Model View**  
-- Designed interactive visuals  
+  ![Model View Overview](image.pdf)  
+- Designed interactive visuals 
 
 
 ##  Dashboard Visuals  
@@ -70,6 +71,9 @@ The dataset was sourced from **Kaggle** and consists of 4 CSV files:
 - Country, Company, Year  
 - Makes dashboard interactive and user-friendly  
 
+### Dashboard File
+The complete Power BI dashboard can be found here:  
+[EV_Dashboard.pbix](files/EV_Dashboard.pbix)
 
 ## Key Insights  
 From the dashboard, we can see that the **United States** is leading with more than 82,000 charging stations, followed by the **UK** (26,825) and **Germany** (23,373). On the other hand, **China** and **Japan** have launched a large number of EV models despite having fewer charging stations, which highlights a gap between adoption and infrastructure.
